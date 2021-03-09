@@ -8,11 +8,11 @@
 
 ### Want To Contact Me? 📱
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ankit_Bavadiya-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav-butani/)](https://www.linkedin.com/in/bhargav-butani/)
-[![Instagram Badge](https://img.shields.io/badge/-ankitbavadiya-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_bhargavb/)](https://www.instagram.com/_bhargavb/)
-[![Twitter Badge](https://img.shields.io/badge/-BavadiyaAnkit-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/sinu_butani/)](https://twitter.com/sinu_butani/)
-[![Gmail Badge](https://img.shields.io/badge/ankitbavadiya1011@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:sinubutani@gmail.com)](mailto:sinubutani@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-abs_webzone-black?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvMl43WgI91YCqW6DXT_zpg)](https://www.youtube.com/channel/UCvMl43WgI91YCqW6DXT_zpg)
+[![Linkedin Badge](https://img.shields.io/badge/-bhargav-butani-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav-butani/)](https://www.linkedin.com/in/bhargav-butani/)
+[![Instagram Badge](https://img.shields.io/badge/-_bhargavb-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_bhargavb/)](https://www.instagram.com/_bhargavb/)
+[![Twitter Badge](https://img.shields.io/badge/-sinu_butani-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/sinu_butani/)](https://twitter.com/sinu_butani/)
+[![Gmail Badge](https://img.shields.io/badge/sinubutani@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:sinubutani@gmail.com)](mailto:sinubutani@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-themovieschamber-black?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvMl43WgI91YCqW6DXT_zpg)](https://www.youtube.com/channel/UCvMl43WgI91YCqW6DXT_zpg)
 
 
 ---
