@@ -8,7 +8,7 @@
 
 ### Want To Contact Me? 📱
 
-[![Linkedin Badge](https://img.shields.io/badge/-bhargav-butani-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav-butani/)](https://www.linkedin.com/in/bhargav-butani/)
+[![Linkedin Badge](https://img.shields.io/badge/-bhargav_butani-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav-butani/)](https://www.linkedin.com/in/bhargav-butani/)
 [![Instagram Badge](https://img.shields.io/badge/-_bhargavb-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_bhargavb/)](https://www.instagram.com/_bhargavb/)
 [![Twitter Badge](https://img.shields.io/badge/-sinu_butani-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/sinu_butani/)](https://twitter.com/sinu_butani/)
 [![Gmail Badge](https://img.shields.io/badge/sinubutani@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:sinubutani@gmail.com)](mailto:sinubutani@gmail.com)
