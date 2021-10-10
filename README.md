@@ -18,3 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BhargavButani&show_icons=true&theme=dark" alt="bhargavbutani" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BhargavButani&show_icons=true&theme=dark" alt="bhargavbutani" /></p>
